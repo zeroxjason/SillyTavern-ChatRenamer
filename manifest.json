@@ -1,5 +1,5 @@
 {
-    "display_name": "SillyTavern-ChatRenamer",
+    "display_name": "Chat Renamer",
     "loading_order": 100,
     "js": "index.js"
 }
